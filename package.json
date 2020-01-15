@@ -8,16 +8,20 @@
       "android"
     ]
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ThienNaingOo/cordova-plugin-aes128.git"
+  },
   "keywords": [
     "android",
     "toast",
     "ecosystem:cordova",
-    "cordova-android"
+    "cordova-android",
+    "cordova-aes128",
+    "AES128",
+    "aes128"
   ],
-  "engines": [{
-      "name": "cordova",
-      "version": ">=3.0.0"
-    }],
   "author": "SCM myanmar",
-  "license": ""
+  "license": "MIT",
+  "homepage": "https://github.com/ThienNaingOo/cordova-plugin-aes128"
 }
