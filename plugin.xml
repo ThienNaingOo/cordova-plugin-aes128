@@ -4,8 +4,8 @@
         xmlns:android="http://schemas.android.com/apk/res/android">
     <name>AES128</name>
 
-    <js-module name="cordova-plugin-aes128" src="www/EncryptAES128.js">
-        <clobbers target="cordova-plugin-aes128" />
+    <js-module name="cordova-android-aes128" src="www/EncryptAES128.js">
+        <clobbers target="cordova-android-aes128" />
     </js-module>
 
     <platform name="android">
