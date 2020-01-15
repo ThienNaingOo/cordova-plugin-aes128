@@ -1,4 +1,4 @@
-package com.elevenmedia;
+package com.theinnaingoo.aes128;
 
 import org.apache.cordova.CordovaPlugin;
 import org.apache.cordova.CallbackContext;
