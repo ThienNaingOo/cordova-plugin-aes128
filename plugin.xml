@@ -14,7 +14,9 @@
                 <param name="android-package" value="com.elevenmedia.EncryptAES128" />
             </feature>
         </config-file>
-
+            
+        <config-file parent="/*" target="AndroidManifest.xml" />
+            
         <source-file src="src/android/EncryptAES128.java" target-dir="src/com/elevenmedia/encrypt/aes128" />
     </platform>
 </plugin>
