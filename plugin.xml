@@ -9,7 +9,7 @@
     </js-module>
 
     <platform name="android">
-        <config-file target="config.xml" parent="/*">
+        <config-file  parent="/*" target="res/xml/config.xml">
             <feature name="AndroidToast">
                 <param name="android-package" value="com.elevenmedia.EncryptAES128" />
             </feature>
