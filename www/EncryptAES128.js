@@ -1,6 +1,6 @@
 var exec = require('cordova/exec');
 
-var PLUGIN_NAME = "cordova-plugin-aes128"; // This is just for code completion uses.
+var PLUGIN_NAME = "cordova-android-aes128"; // This is just for code completion uses.
 
 // var AES128 = function() {}; // This just makes it easier for us to export all of the functions at once.
 // All of your plugin functions go below this. 
