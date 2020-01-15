@@ -1,0 +1,23 @@
+{
+  "name": "cordova-android-aes128",
+  "version": "0.0.1",
+  "description": "Encryption plugin for AES with 128",
+  "cordova": {
+    "id": "cordova-plugin-aes128",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "android",
+    "toast",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "engines": [{
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }],
+  "author": "SCM myanmar",
+  "license": ""
+}
